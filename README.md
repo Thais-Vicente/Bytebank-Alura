@@ -3,7 +3,8 @@ Projeto-curso
 c#-orientação-objetos -Alura
 
 ## Programa para gerenciar salários e bonificações dos colaboradores do Bytebank.
- ### desenvolvido para Banco digital com foco no gerenciamento de contas dos clientes. 
+ ### desenvolvido para Banco digital com foco no gerenciamento de contas dos clientes.
+ ### Consolidando conceitos: Classe, objetos, métodos e propriedades.
 
 
 
